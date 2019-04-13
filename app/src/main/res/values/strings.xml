@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TrackNCommute</string>
+
+    <string name="unknown_sign_in_response">Unknown response from AuthUI sign-in</string>
+    <string name="unknown_response">Unexpected onActivityResult response code</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">An unknown error occurred</string>
+    <string name="sign_out_failed">Sign out failed</string>
+    <string name="delete_account_failed">Delete account failed</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="permissions_not_granted_location_access">App needs to access the device location</string>
+    <string name="permission">Permission Request</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_delete_account">Delete Account</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_regOwner">Owner</string>
+    <string name="menu_regNewUser">User</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="waitingapproval">Your registration is being processed</string>
+    <string name="continueasuser">Continue</string>
+
+    <string name="driveraccept">Please wait while the driver accepts your ride</string>
+    <string name="owner_waitforriderequest">You will be notified when a user contacts you</string>
+    <string name="search_ride">Search Ride</string>
+
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_phone">Enter your mobile number</string>
+    <string name="hint_vehicle">Enter your vehicle type</string>
+    <string name="hint_vehicle_no">Enter your vehicle registration number</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="vehicletypes">
+        <item>Auto Rikshaw</item>
+        <item>Taxi</item>
+        <item>She Taxi</item>
+        <item>Rent a car</item>
+        <item>Bus</item>
+    </string-array>
+    <string-array name="vehicles_images_url">
+        <item>auto</item>
+        <item>taxi</item>
+        <item>womentaxi</item>
+        <item>rentacar</item>
+        <item>bus</item>
+    </string-array>
+    <string name="auto">Auto Rikshaw</string>
+    <string name="taxi">Taxi</string>
+    <string name="she_taxi">She Taxi</string>
+    <string name="rent_a_car">Rent a Car</string>
+    <string name="bus">Bus</string>
+    <string name="next">Next</string>
+
+    <string name="bookride">Book Ride</string>
+
+    <string name="title_activity_auto_registration">AutoRegistrationActivity</string>
+    <string name="title_activity_nearby_autos_map">NearbyAutosMapActivity</string>
+
+
+    <string name="hypertrack">HyperTrack</string>
+    <string name="login_header">Track N Commute</string>
+
+
+</resources>

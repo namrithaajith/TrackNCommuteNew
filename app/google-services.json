@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "40300837125",
+    "firebase_url": "https://track-vehicles.firebaseio.com",
+    "project_id": "track-vehicles",
+    "storage_bucket": "track-vehicles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40300837125:android:2c3a28603190f59c",
+        "android_client_info": {
+          "package_name": "com.mobioetech.tracker.trackvehicles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40300837125-nflh32tt560a1ggtr0325ug1kqbovji6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobioetech.tracker.trackvehicles",
+            "certificate_hash": "e6bd23c7980b511fb9409a7e8873731d1b15ec84"
+          }
+        },
+        {
+          "client_id": "40300837125-d8glvjq5kd3tnlducmud0jlttk8h7it8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKu6bPeh7z8O74aHU32OSuWIthRV9M2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40300837125-d8glvjq5kd3tnlducmud0jlttk8h7it8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40300837125:android:d660cefea3b65927",
+        "android_client_info": {
+          "package_name": "com.mobioetech.trackncommute.trackncommute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40300837125-d8glvjq5kd3tnlducmud0jlttk8h7it8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKu6bPeh7z8O74aHU32OSuWIthRV9M2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

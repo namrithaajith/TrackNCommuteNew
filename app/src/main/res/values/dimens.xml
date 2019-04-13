@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_64">64dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_120">120dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="list_image_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+
+    <dimen name="smallText_sp_12">12sp</dimen>
+    <dimen name="normalText_sp_14">14sp</dimen>
+    <dimen name="subHeader_sp_16">16sp</dimen>
+    <dimen name="title">17sp</dimen>
+
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_marginLeft">60dp</dimen>
+    <dimen name="button_marginRight">60dp</dimen>
+    <dimen name="button_marginTop">30dp</dimen>
+    <dimen name="button_marginBottom">30dp</dimen>
+    <dimen name="viewpagerbutton_marginLeft">72dp</dimen>
+    <dimen name="viewpagerbutton_marginRight">72dp</dimen>
+
+
+</resources>
