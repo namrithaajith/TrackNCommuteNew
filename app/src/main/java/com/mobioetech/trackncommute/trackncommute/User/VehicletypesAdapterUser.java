@@ -57,7 +57,10 @@ public class VehicletypesAdapterUser extends RecyclerView.Adapter<VehicletypesAd
                         Log.i(LOG,"inside auto onclick");
                         context.startActivity(intent);
                             break;
-                    case 1:
+                    case 1:intent = new Intent(context,NearbyTaxiMapActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        Log.i(LOG,"inside taxi onclick");
+                        context.startActivity(intent);
                         break;
                     case 2:
                         break;
