@@ -63,7 +63,11 @@ public class VehicletypesAdapterUser extends RecyclerView.Adapter<VehicletypesAd
                         break;
                     case 3:
                         break;
-                    case 4:
+                    case 4:intent = new Intent(context,NearbyBusMapActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        Log.i(LOG,"inside bus onclick");
+                        context.startActivity(intent);
+                        break;
                         break;
                     default:
                         Log.i(LOG,"inside default onclick");
